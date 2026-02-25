@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "AMA",
+    "AAA"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sugar"
+    },
+    "S": {
+      "item": "minecraft:sweet_berries"
+    },
+    "A": {
+      "item": "alexscaves:spelunkie"
+    },
+    "M": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "result": {
+    "item": "cavedelight:spelunkie_cake",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "cavedelight:cooked_slam_slice"
+    },
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "item": "cavedelight:cooked_slam_slice"
+    },
+    {
+      "item": "cavedelight:cooked_slam_slice"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "cavedelight:fried_slam_rice"
+  }
+}

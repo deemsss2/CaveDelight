@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "farmersdelight:tomato"
+        },
+        {
+            "item": "farmersdelight:cabbage_leaf"
+        },
+        {
+            "item": "minecraft:bread"
+        },
+        {
+            "tag": "cavedelight:slam"
+        }
+    ],
+    "result": {
+        "item": "cavedelight:slam_burger",
+        "count": 1
+    }
+}

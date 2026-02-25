@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "cavedelight:cooked_slam_slice"
+    },
+    {
+      "item": "cavedelight:cooked_slam_slice"
+    }
+  ],
+  "result": {
+    "item": "cavedelight:slam_on_a_stick",
+    "count": 1
+  }
+}

@@ -75,6 +75,7 @@ public class CaveDelightCreativeTab {
                         output.accept(CaveDelightItems.RADGILL_STEW.get());
                         output.accept(CaveDelightItems.TOXIC_SOUP.get());
                         output.accept(CaveDelightItems.SLICE_OF_SPELUNKIE_CAKE.get());
+                        output.accept(CaveDelightBlocks.SPELUNKIE_CAKE.get());
 
                     })
                     .build());

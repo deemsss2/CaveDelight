@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "cavedelight:spelunkie_cake"
+    }
+  ],
+  "result": [
+    {
+      "count": 8,
+      "item": "cavedelight:slice_of_spelunkie_cake"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

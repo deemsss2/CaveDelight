@@ -36,7 +36,7 @@ public class CaveDelightBlocks {
             () -> new PieBlock(Block.Properties.copy(Blocks.CAKE), CaveDelightItems.SLICE_OF_PINENUT_PIE));
 
     public static final RegistryObject<Block> SPELUNKIE_CAKE = registerPieBlock("spelunkie_cake",
-            () -> new SpelunkieCakeBlock(Block.Properties.copy(Blocks.CAKE), CaveDelightItems.SLICE_OF_SPELUNKIE_CAKE));
+            () -> new PieBlock(Block.Properties.copy(Blocks.CAKE), CaveDelightItems.SLICE_OF_SPELUNKIE_CAKE));
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
