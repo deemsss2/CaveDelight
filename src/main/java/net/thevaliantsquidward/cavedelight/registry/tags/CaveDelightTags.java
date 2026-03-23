@@ -12,6 +12,8 @@ public class CaveDelightTags {
     public static final TagKey<Item> SMALL_DINOSAUR_EGGS = registerItemTag("small_dinosaur_egg");
     public static final TagKey<Item> BIG_DINOSAUR_EGGS = registerItemTag("big_dinosaur_egg");
     public static final TagKey<Item> SOYLENT = registerItemTag("soylent");
+    public static final TagKey<Item> SLAM = registerItemTag("slam");
+    public static final TagKey<Item> RADGILL = registerItemTag("radgill");
 
     private static TagKey<Item> registerItemTag(String name) {
         return TagKey.create(Registries.ITEM, new ResourceLocation(CaveDelight.MOD_ID, name));
